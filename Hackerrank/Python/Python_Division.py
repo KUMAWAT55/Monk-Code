@@ -1,4 +1,4 @@
-a=int(raw_input())
-b=int(raw_input())
+a=int(raw_input()) #input
+b=int(raw_input()) #input
 print a/b
 print float(a)/b
