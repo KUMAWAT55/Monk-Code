@@ -1,3 +1,4 @@
+################################
 input_string = input()
 cipher_key = int(input())
 cipher_text = ''
