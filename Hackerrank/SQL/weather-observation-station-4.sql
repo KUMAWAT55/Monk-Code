@@ -1,4 +1,4 @@
-/*ORACLE*/
+/**ORACLE**/
 select Count(CITY)-Count(DISTINCT CITY) from STATION ; 
-/*SQL*/
+/**SQL**/
 select Count(CITY)-Count(DISTINCT CITY) from STATION ; 
