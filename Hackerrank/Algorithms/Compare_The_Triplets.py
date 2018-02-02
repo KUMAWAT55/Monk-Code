@@ -1,6 +1,4 @@
 #!/bin/python
-
-import sys
 b=0
 a=0
 a0,a1,a2 = raw_input().strip().split(' ')
