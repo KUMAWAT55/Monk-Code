@@ -1,5 +1,3 @@
-#!/bin/python
-
 import sys
 
 sum=0
