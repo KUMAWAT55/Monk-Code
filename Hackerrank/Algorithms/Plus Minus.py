@@ -1,5 +1,4 @@
-#!/bin/python3
-
+#----------> PYTHON 3 <----------
 import sys
 
 def plusMinus(arr):
