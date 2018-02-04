@@ -1,8 +1,9 @@
+#----------> PYTHON 3 <----------
 import sys
 
 sum=0
-n = int(raw_input().strip())
-arr = map(int,raw_input().strip().split(' '))
+n = int(input().strip())
+arr = input().strip().split(' ')
 for i in range(0,n):
-    sum=sum+arr[i]
-print sum
+    sum=sum+int(arr[i])
+print (sum)
