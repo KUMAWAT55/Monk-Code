@@ -1,5 +1,5 @@
 #!/bin/python3
-
+#----------> PYTHON 3 <----------
 import sys
 
 def diagonalDifference(a,n):
