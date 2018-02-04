@@ -1,7 +1,8 @@
-n=input()
+#---------> PYTHON 3 <----------
+n=int(input())
 l=[]
-l=map(int,raw_input().split())
+l=(input().split())
 sum=0
 for i in range(n):
-   sum=sum+l[i]
-print sum
+   sum=sum+int(l[i])
+print (sum)
